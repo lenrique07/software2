@@ -1,0 +1,5 @@
+[
+{"Clima": "Soleado", "Fecha": "13-02-2018", "Hora": "15:20:15", "Cantidad Subida": 6, "Cantidad Bajada": 5, "Cantidad Actual": 15},
+{"Clima": "Soleado", "Fecha": "13-02-2018", "Hora": "19:20:15", "Cantidad Subida": 6, "Cantidad Bajada": 5, "Cantidad Actual": 10},
+{"Clima": "Lluvioso", "Fecha": "13-02-2018", "Hora": "12:00:15", "Cantidad Subida": 2, "Cantidad Bajada": 3, "Cantidad Actual": 30}
+]
